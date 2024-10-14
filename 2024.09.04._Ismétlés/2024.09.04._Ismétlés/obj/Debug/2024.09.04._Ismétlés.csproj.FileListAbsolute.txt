@@ -1,0 +1,14 @@
+H:\12b\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\bin\Debug\2024.09.04._Ismétlés.exe.config
+H:\12b\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\bin\Debug\2024.09.04._Ismétlés.exe
+H:\12b\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\bin\Debug\2024.09.04._Ismétlés.pdb
+H:\12b\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\obj\Debug\2024.09.04._Ismétlés.csproj.AssemblyReference.cache
+H:\12b\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\obj\Debug\2024.09.04._Ismétlés.csproj.CoreCompileInputs.cache
+H:\12b\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\obj\Debug\2024.09.04._Ismétlés.exe
+H:\12b\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\obj\Debug\2024.09.04._Ismétlés.pdb
+H:\2024-25\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\bin\Debug\2024.09.04._Ismétlés.exe.config
+H:\2024-25\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\bin\Debug\2024.09.04._Ismétlés.exe
+H:\2024-25\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\bin\Debug\2024.09.04._Ismétlés.pdb
+H:\2024-25\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\obj\Debug\2024.09.04._Ismétlés.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\obj\Debug\2024.09.04._Ismétlés.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\obj\Debug\2024.09.04._Ismétlés.exe
+H:\2024-25\Asztali\2024.09.04._Ismétlés\2024.09.04._Ismétlés\obj\Debug\2024.09.04._Ismétlés.pdb

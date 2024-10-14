@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.10.04._Osztaly\2024.10.04._Osztaly\bin\Debug\2024.10.04._Osztaly.exe.config
+H:\2024-25\Asztali\2024.10.04._Osztaly\2024.10.04._Osztaly\bin\Debug\2024.10.04._Osztaly.exe
+H:\2024-25\Asztali\2024.10.04._Osztaly\2024.10.04._Osztaly\bin\Debug\2024.10.04._Osztaly.pdb
+H:\2024-25\Asztali\2024.10.04._Osztaly\2024.10.04._Osztaly\obj\Debug\2024.10.04._Osztaly.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.10.04._Osztaly\2024.10.04._Osztaly\obj\Debug\2024.10.04._Osztaly.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.10.04._Osztaly\2024.10.04._Osztaly\obj\Debug\2024.10.04._Osztaly.exe
+H:\2024-25\Asztali\2024.10.04._Osztaly\2024.10.04._Osztaly\obj\Debug\2024.10.04._Osztaly.pdb

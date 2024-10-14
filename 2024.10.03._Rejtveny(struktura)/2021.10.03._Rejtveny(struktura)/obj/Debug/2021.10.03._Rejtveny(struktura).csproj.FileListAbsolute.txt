@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.10.03._Rejtveny(struktura)\2021.10.03._Rejtveny(struktura)\bin\Debug\2021.10.03._Rejtveny(struktura).exe.config
+H:\2024-25\Asztali\2024.10.03._Rejtveny(struktura)\2021.10.03._Rejtveny(struktura)\bin\Debug\2021.10.03._Rejtveny(struktura).exe
+H:\2024-25\Asztali\2024.10.03._Rejtveny(struktura)\2021.10.03._Rejtveny(struktura)\bin\Debug\2021.10.03._Rejtveny(struktura).pdb
+H:\2024-25\Asztali\2024.10.03._Rejtveny(struktura)\2021.10.03._Rejtveny(struktura)\obj\Debug\2021.10.03._Rejtveny(struktura).csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.10.03._Rejtveny(struktura)\2021.10.03._Rejtveny(struktura)\obj\Debug\2021.10.03._Rejtveny(struktura).csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.10.03._Rejtveny(struktura)\2021.10.03._Rejtveny(struktura)\obj\Debug\2021.10.03._Rejtveny(struktura).exe
+H:\2024-25\Asztali\2024.10.03._Rejtveny(struktura)\2021.10.03._Rejtveny(struktura)\obj\Debug\2021.10.03._Rejtveny(struktura).pdb

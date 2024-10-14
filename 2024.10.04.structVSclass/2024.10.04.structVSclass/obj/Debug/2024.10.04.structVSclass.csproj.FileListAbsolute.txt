@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.10.04.structVSclass\2024.10.04.structVSclass\bin\Debug\2024.10.04.structVSclass.exe.config
+H:\2024-25\Asztali\2024.10.04.structVSclass\2024.10.04.structVSclass\bin\Debug\2024.10.04.structVSclass.exe
+H:\2024-25\Asztali\2024.10.04.structVSclass\2024.10.04.structVSclass\bin\Debug\2024.10.04.structVSclass.pdb
+H:\2024-25\Asztali\2024.10.04.structVSclass\2024.10.04.structVSclass\obj\Debug\2024.10.04.structVSclass.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.10.04.structVSclass\2024.10.04.structVSclass\obj\Debug\2024.10.04.structVSclass.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.10.04.structVSclass\2024.10.04.structVSclass\obj\Debug\2024.10.04.structVSclass.exe
+H:\2024-25\Asztali\2024.10.04.structVSclass\2024.10.04.structVSclass\obj\Debug\2024.10.04.structVSclass.pdb

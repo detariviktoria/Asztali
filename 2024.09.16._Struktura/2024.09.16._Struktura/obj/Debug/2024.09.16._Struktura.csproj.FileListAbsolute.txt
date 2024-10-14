@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.09.16._Struktura\2024.09.16._Struktura\bin\Debug\2024.09.16._Struktura.exe.config
+H:\2024-25\Asztali\2024.09.16._Struktura\2024.09.16._Struktura\bin\Debug\2024.09.16._Struktura.exe
+H:\2024-25\Asztali\2024.09.16._Struktura\2024.09.16._Struktura\bin\Debug\2024.09.16._Struktura.pdb
+H:\2024-25\Asztali\2024.09.16._Struktura\2024.09.16._Struktura\obj\Debug\2024.09.16._Struktura.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.09.16._Struktura\2024.09.16._Struktura\obj\Debug\2024.09.16._Struktura.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.09.16._Struktura\2024.09.16._Struktura\obj\Debug\2024.09.16._Struktura.exe
+H:\2024-25\Asztali\2024.09.16._Struktura\2024.09.16._Struktura\obj\Debug\2024.09.16._Struktura.pdb

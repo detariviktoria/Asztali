@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.09.19._StrukturaGyakorlas\2024.09.19._StrukturaGyakorlas\obj\Debug\2024.09.19._StrukturaGyakorlas.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.09.19._StrukturaGyakorlas\2024.09.19._StrukturaGyakorlas\obj\Debug\2024.09.19._StrukturaGyakorlas.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.09.19._StrukturaGyakorlas\2024.09.19._StrukturaGyakorlas\bin\Debug\2024.09.19._StrukturaGyakorlas.exe.config
+H:\2024-25\Asztali\2024.09.19._StrukturaGyakorlas\2024.09.19._StrukturaGyakorlas\bin\Debug\2024.09.19._StrukturaGyakorlas.exe
+H:\2024-25\Asztali\2024.09.19._StrukturaGyakorlas\2024.09.19._StrukturaGyakorlas\bin\Debug\2024.09.19._StrukturaGyakorlas.pdb
+H:\2024-25\Asztali\2024.09.19._StrukturaGyakorlas\2024.09.19._StrukturaGyakorlas\obj\Debug\2024.09.19._StrukturaGyakorlas.exe
+H:\2024-25\Asztali\2024.09.19._StrukturaGyakorlas\2024.09.19._StrukturaGyakorlas\obj\Debug\2024.09.19._StrukturaGyakorlas.pdb

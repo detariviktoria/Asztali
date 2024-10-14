@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-25\\Asztali\\2024.10.04.structVSclass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3FF61-CD9F-44AF-B997-C22448182BBE}|2024.10.04.structVSclass\\2024.10.04.structVSclass.csproj|h:\\2024-25\\asztali\\2024.10.04.structvsclass\\2024.10.04.structvsclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC3FF61-CD9F-44AF-B997-C22448182BBE}|2024.10.04.structVSclass\\2024.10.04.structVSclass.csproj|solutionrelative:2024.10.04.structvsclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\2024.10.04.structVSclass\\2024.10.04.structVSclass\\Program.cs",
+              "RelativeDocumentMoniker": "2024.10.04.structVSclass\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\2024.10.04.structVSclass\\2024.10.04.structVSclass\\Program.cs",
+              "RelativeToolTip": "2024.10.04.structVSclass\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:06:11.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

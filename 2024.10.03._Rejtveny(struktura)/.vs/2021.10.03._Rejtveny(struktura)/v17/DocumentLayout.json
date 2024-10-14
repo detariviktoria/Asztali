@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-25\\Asztali\\2024.10.03._Rejtveny(struktura)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9372101A-A848-483D-9252-9A7C1E6C2778}|2021.10.03._Rejtveny(struktura)\\2021.10.03._Rejtveny(struktura).csproj|h:\\2024-25\\asztali\\2024.10.03._rejtveny(struktura)\\2021.10.03._rejtveny(struktura)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9372101A-A848-483D-9252-9A7C1E6C2778}|2021.10.03._Rejtveny(struktura)\\2021.10.03._Rejtveny(struktura).csproj|solutionrelative:2021.10.03._rejtveny(struktura)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\detari.viktoria\\AppData\\Local\\Temp\\Rar$DIa7672.4746\\Rejtv\u00E9ny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\2023-24\\Asztalialk\\2024.01.30._MatrixGyakorlas\\2024.01.30._MatrixGyakorlas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\2023-24\\Asztalialk\\2024.01.26.Matrix\\2024.01.26.Matrix\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rejtv\u00E9ny.cs",
+              "DocumentMoniker": "C:\\Users\\detari.viktoria\\AppData\\Local\\Temp\\Rar$DIa7672.4746\\Rejtv\u00E9ny.cs",
+              "ToolTip": "C:\\Users\\detari.viktoria\\AppData\\Local\\Temp\\Rar$DIa7672.4746\\Rejtv\u00E9ny.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAH4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:25:38.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2023-24\\Asztalialk\\2024.01.30._MatrixGyakorlas\\2024.01.30._MatrixGyakorlas\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\2023-24\\Asztalialk\\2024.01.30._MatrixGyakorlas\\2024.01.30._MatrixGyakorlas\\Program.cs",
+              "ToolTip": "H:\\2023-24\\Asztalialk\\2024.01.30._MatrixGyakorlas\\2024.01.30._MatrixGyakorlas\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\2023-24\\Asztalialk\\2024.01.30._MatrixGyakorlas\\2024.01.30._MatrixGyakorlas\\Program.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAALQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:41:51.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2023-24\\Asztalialk\\2024.01.26.Matrix\\2024.01.26.Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\2023-24\\Asztalialk\\2024.01.26.Matrix\\2024.01.26.Matrix\\Program.cs",
+              "ToolTip": "H:\\2023-24\\Asztalialk\\2024.01.26.Matrix\\2024.01.26.Matrix\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\2023-24\\Asztalialk\\2024.01.26.Matrix\\2024.01.26.Matrix\\Program.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:41:09.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\2024.10.03._Rejtveny(struktura)\\2021.10.03._Rejtveny(struktura)\\Program.cs",
+              "RelativeDocumentMoniker": "2021.10.03._Rejtveny(struktura)\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\2024.10.03._Rejtveny(struktura)\\2021.10.03._Rejtveny(struktura)\\Program.cs",
+              "RelativeToolTip": "2021.10.03._Rejtveny(struktura)\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:20:06.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

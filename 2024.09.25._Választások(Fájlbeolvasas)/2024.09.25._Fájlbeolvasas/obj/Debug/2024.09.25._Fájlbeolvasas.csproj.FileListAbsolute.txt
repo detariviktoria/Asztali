@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.09.25._Fájlbeolvasas\2024.09.25._Fájlbeolvasas\bin\Debug\2024.09.25._Fájlbeolvasas.exe.config
+H:\2024-25\Asztali\2024.09.25._Fájlbeolvasas\2024.09.25._Fájlbeolvasas\bin\Debug\2024.09.25._Fájlbeolvasas.exe
+H:\2024-25\Asztali\2024.09.25._Fájlbeolvasas\2024.09.25._Fájlbeolvasas\bin\Debug\2024.09.25._Fájlbeolvasas.pdb
+H:\2024-25\Asztali\2024.09.25._Fájlbeolvasas\2024.09.25._Fájlbeolvasas\obj\Debug\2024.09.25._Fájlbeolvasas.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.09.25._Fájlbeolvasas\2024.09.25._Fájlbeolvasas\obj\Debug\2024.09.25._Fájlbeolvasas.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.09.25._Fájlbeolvasas\2024.09.25._Fájlbeolvasas\obj\Debug\2024.09.25._Fájlbeolvasas.exe
+H:\2024-25\Asztali\2024.09.25._Fájlbeolvasas\2024.09.25._Fájlbeolvasas\obj\Debug\2024.09.25._Fájlbeolvasas.pdb

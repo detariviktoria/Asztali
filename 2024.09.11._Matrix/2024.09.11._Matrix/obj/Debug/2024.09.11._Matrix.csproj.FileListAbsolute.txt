@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.09.11._Matrix\2024.09.11._Matrix\bin\Debug\2024.09.11._Matrix.exe.config
+H:\2024-25\Asztali\2024.09.11._Matrix\2024.09.11._Matrix\bin\Debug\2024.09.11._Matrix.exe
+H:\2024-25\Asztali\2024.09.11._Matrix\2024.09.11._Matrix\bin\Debug\2024.09.11._Matrix.pdb
+H:\2024-25\Asztali\2024.09.11._Matrix\2024.09.11._Matrix\obj\Debug\2024.09.11._Matrix.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.09.11._Matrix\2024.09.11._Matrix\obj\Debug\2024.09.11._Matrix.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.09.11._Matrix\2024.09.11._Matrix\obj\Debug\2024.09.11._Matrix.exe
+H:\2024-25\Asztali\2024.09.11._Matrix\2024.09.11._Matrix\obj\Debug\2024.09.11._Matrix.pdb
