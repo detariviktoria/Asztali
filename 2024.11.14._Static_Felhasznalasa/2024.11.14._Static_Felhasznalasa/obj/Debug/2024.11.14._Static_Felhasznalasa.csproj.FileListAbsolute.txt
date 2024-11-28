@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.11.14._Static_Felhasznalasa\2024.11.14._Static_Felhasznalasa\bin\Debug\2024.11.14._Static_Felhasznalasa.exe.config
+H:\2024-25\Asztali\2024.11.14._Static_Felhasznalasa\2024.11.14._Static_Felhasznalasa\bin\Debug\2024.11.14._Static_Felhasznalasa.exe
+H:\2024-25\Asztali\2024.11.14._Static_Felhasznalasa\2024.11.14._Static_Felhasznalasa\bin\Debug\2024.11.14._Static_Felhasznalasa.pdb
+H:\2024-25\Asztali\2024.11.14._Static_Felhasznalasa\2024.11.14._Static_Felhasznalasa\obj\Debug\2024.11.14._Static_Felhasznalasa.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.11.14._Static_Felhasznalasa\2024.11.14._Static_Felhasznalasa\obj\Debug\2024.11.14._Static_Felhasznalasa.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.11.14._Static_Felhasznalasa\2024.11.14._Static_Felhasznalasa\obj\Debug\2024.11.14._Static_Felhasznalasa.exe
+H:\2024-25\Asztali\2024.11.14._Static_Felhasznalasa\2024.11.14._Static_Felhasznalasa\obj\Debug\2024.11.14._Static_Felhasznalasa.pdb

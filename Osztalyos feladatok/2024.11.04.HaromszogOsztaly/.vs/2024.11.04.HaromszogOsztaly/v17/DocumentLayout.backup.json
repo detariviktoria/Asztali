@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-25\\Asztali\\Osztalyos feladatok\\2024.11.04.HaromszogOsztaly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83ED5B7F-B431-4297-AE1C-377905D6BF3F}|2024.11.04.HaromszogOsztaly\\2024.11.04.HaromszogOsztaly.csproj|H:\\2024-25\\Asztali\\Osztalyos feladatok\\2024.11.04.HaromszogOsztaly\\2024.11.04.haromszogosztaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ED5B7F-B431-4297-AE1C-377905D6BF3F}|2024.11.04.HaromszogOsztaly\\2024.11.04.HaromszogOsztaly.csproj|solutionrelative:2024.11.04.haromszogosztaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ED5B7F-B431-4297-AE1C-377905D6BF3F}|2024.11.04.HaromszogOsztaly\\2024.11.04.HaromszogOsztaly.csproj|h:\\2024-25\\asztali\\osztalyos feladatok\\2024.11.04.haromszogosztaly\\2024.11.04.haromszogosztaly\\haromszog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ED5B7F-B431-4297-AE1C-377905D6BF3F}|2024.11.04.HaromszogOsztaly\\2024.11.04.HaromszogOsztaly.csproj|solutionrelative:2024.11.04.haromszogosztaly\\haromszog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\2023-24\\Asztalialk\\OOP feladatok\\2024.04.24._OOPHaromszog\\2024.04.24._OOPHaromszog\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2023-24\\Asztalialk\\OOP feladatok\\2024.04.24._OOPHaromszog\\2024.04.24._OOPHaromszog\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\2023-24\\Asztalialk\\OOP feladatok\\2024.04.24._OOPHaromszog\\2024.04.24._OOPHaromszog\\Program.cs",
+              "ToolTip": "H:\\2023-24\\Asztalialk\\OOP feladatok\\2024.04.24._OOPHaromszog\\2024.04.24._OOPHaromszog\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\2023-24\\Asztalialk\\OOP feladatok\\2024.04.24._OOPHaromszog\\2024.04.24._OOPHaromszog\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:13:37.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "haromszog.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\Osztalyos feladatok\\2024.11.04.HaromszogOsztaly\\2024.11.04.HaromszogOsztaly\\haromszog.cs",
+              "RelativeDocumentMoniker": "2024.11.04.HaromszogOsztaly\\haromszog.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\Osztalyos feladatok\\2024.11.04.HaromszogOsztaly\\2024.11.04.HaromszogOsztaly\\haromszog.cs",
+              "RelativeToolTip": "2024.11.04.HaromszogOsztaly\\haromszog.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA4wBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:05:29.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\Osztalyos feladatok\\2024.11.04.HaromszogOsztaly\\2024.11.04.HaromszogOsztaly\\Program.cs",
+              "RelativeDocumentMoniker": "2024.11.04.HaromszogOsztaly\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\Osztalyos feladatok\\2024.11.04.HaromszogOsztaly\\2024.11.04.HaromszogOsztaly\\Program.cs",
+              "RelativeToolTip": "2024.11.04.HaromszogOsztaly\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:04:24.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

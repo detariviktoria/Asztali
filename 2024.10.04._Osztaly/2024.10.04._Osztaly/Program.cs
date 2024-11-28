@@ -74,10 +74,14 @@ namespace _2024_10_04_Osztaly
 
         //get,set
 
-        public string Azon { get {
+        public string Azon 
+        { 
+            get 
+            {
                 return azon;
             }
-            set {
+            set 
+            {
                 azon = value;
             }
         }

@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.07._Szamitogep\2024.11.07._Szamitogep\bin\Debug\2024.11.07._Szamitogep.exe.config
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.07._Szamitogep\2024.11.07._Szamitogep\bin\Debug\2024.11.07._Szamitogep.exe
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.07._Szamitogep\2024.11.07._Szamitogep\bin\Debug\2024.11.07._Szamitogep.pdb
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.07._Szamitogep\2024.11.07._Szamitogep\obj\Debug\2024.11.07._Szamitogep.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.07._Szamitogep\2024.11.07._Szamitogep\obj\Debug\2024.11.07._Szamitogep.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.07._Szamitogep\2024.11.07._Szamitogep\obj\Debug\2024.11.07._Szamitogep.exe
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.07._Szamitogep\2024.11.07._Szamitogep\obj\Debug\2024.11.07._Szamitogep.pdb

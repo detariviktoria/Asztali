@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.04.HaromszogOsztaly\2024.11.04.HaromszogOsztaly\bin\Debug\2024.11.04.HaromszogOsztaly.exe.config
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.04.HaromszogOsztaly\2024.11.04.HaromszogOsztaly\bin\Debug\2024.11.04.HaromszogOsztaly.exe
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.04.HaromszogOsztaly\2024.11.04.HaromszogOsztaly\bin\Debug\2024.11.04.HaromszogOsztaly.pdb
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.04.HaromszogOsztaly\2024.11.04.HaromszogOsztaly\obj\Debug\2024.11.04.HaromszogOsztaly.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.04.HaromszogOsztaly\2024.11.04.HaromszogOsztaly\obj\Debug\2024.11.04.HaromszogOsztaly.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.04.HaromszogOsztaly\2024.11.04.HaromszogOsztaly\obj\Debug\2024.11.04.HaromszogOsztaly.exe
+H:\2024-25\Asztali\Osztalyos feladatok\2024.11.04.HaromszogOsztaly\2024.11.04.HaromszogOsztaly\obj\Debug\2024.11.04.HaromszogOsztaly.pdb
