@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{490F8DC2-6F5F-4503-ABC4-FCD35E497D20}|2024.11.28._Absztrakt\\2024.11.28._Absztrakt.csproj|solutionrelative:2024.11.28._absztrakt\\haz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{490F8DC2-6F5F-4503-ABC4-FCD35E497D20}|2024.11.28._Absztrakt\\2024.11.28._Absztrakt.csproj|h:\\2024-25\\asztali\\2024.11.28._absztrakt\\2024.11.28._absztrakt\\tervrajz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{490F8DC2-6F5F-4503-ABC4-FCD35E497D20}|2024.11.28._Absztrakt\\2024.11.28._Absztrakt.csproj|H:\\2024-25\\Asztali\\2024.11.28._Absztrakt\\2024.11.28._absztrakt\\tervrajz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{490F8DC2-6F5F-4503-ABC4-FCD35E497D20}|2024.11.28._Absztrakt\\2024.11.28._Absztrakt.csproj|solutionrelative:2024.11.28._absztrakt\\tervrajz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,8 +47,7 @@
               "RelativeToolTip": "2024.11.28._Absztrakt\\Tervrajz.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:49:42.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T06:49:42.674Z"
             },
             {
               "$type": "Document",

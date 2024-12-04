@@ -1,0 +1,7 @@
+H:\DV_Bank\DV_Bank\bin\Debug\DV_Bank.exe.config
+H:\DV_Bank\DV_Bank\bin\Debug\DV_Bank.exe
+H:\DV_Bank\DV_Bank\bin\Debug\DV_Bank.pdb
+H:\DV_Bank\DV_Bank\obj\Debug\DV_Bank.csproj.AssemblyReference.cache
+H:\DV_Bank\DV_Bank\obj\Debug\DV_Bank.csproj.CoreCompileInputs.cache
+H:\DV_Bank\DV_Bank\obj\Debug\DV_Bank.exe
+H:\DV_Bank\DV_Bank\obj\Debug\DV_Bank.pdb
