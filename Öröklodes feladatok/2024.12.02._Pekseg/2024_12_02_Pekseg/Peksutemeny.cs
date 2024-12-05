@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2024._12._02._Pekseg
+namespace _2024_12_02_Pekseg
 {
-    internal abstract class Peksutemeny : IArlap
+    internal abstract class Peksutemeny :IArlap
     {
         protected double mennyiseg;
         private double ar;
@@ -17,16 +17,16 @@ namespace _2024._12._02._Pekseg
             this.ar = ar;
         }
 
-        public abstract double Cseszekave();
         public abstract void Megkostol();
-        public  double MennyibeKerul()
+
+        public double MennyibeKerul()
         {
             return ar * mennyiseg;
         }
 
         public override string ToString()
         {
-            return base.ToString();
+            return $"{mennyiseg} db - {MennyibeKerul()} Ft";
         }
     }
 }

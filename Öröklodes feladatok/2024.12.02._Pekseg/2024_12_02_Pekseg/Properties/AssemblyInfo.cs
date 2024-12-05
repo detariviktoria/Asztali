@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("2024.12.02._Pekseg")]
+[assembly: AssemblyTitle("2024_12_02_Pekseg")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("2024.12.02._Pekseg")]
+[assembly: AssemblyProduct("2024_12_02_Pekseg")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c4ed114b-2e5c-4458-9f75-ee826e2ab167")]
+[assembly: Guid("542a33ab-4ad6-4f6d-bf22-64daa4df9b6d")]
 
 // Version information for an assembly consists of the following four values:
 //
