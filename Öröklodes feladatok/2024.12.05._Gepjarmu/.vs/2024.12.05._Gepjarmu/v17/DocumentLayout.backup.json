@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|solutionrelative:2024.12.05._gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|h:\\2024-25\\asztali\\\u00F6r\u00F6klodes feladatok\\2024.12.05._gepjarmu\\2024.12.05._gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|solutionrelative:2024.12.05._gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._gepjarmu\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|solutionrelative:2024.12.05._gepjarmu\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._gepjarmu\\ikisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|solutionrelative:2024.12.05._gepjarmu\\ikisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|solutionrelative:2024.12.05._gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|solutionrelative:2024.12.05._gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{612B437F-36BC-4CA3-AC28-9A9D0F0D0254}|2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu.csproj|H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orszagut.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\Orszagut.cs",
+              "RelativeDocumentMoniker": "2024.12.05._Gepjarmu\\Orszagut.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\Orszagut.cs",
+              "RelativeToolTip": "2024.12.05._Gepjarmu\\Orszagut.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:13:34.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudiS8.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\AudiS8.cs",
+              "RelativeDocumentMoniker": "2024.12.05._Gepjarmu\\AudiS8.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\AudiS8.cs",
+              "RelativeToolTip": "2024.12.05._Gepjarmu\\AudiS8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:05:22.576Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,23 +68,22 @@
               "RelativeDocumentMoniker": "2024.12.05._Gepjarmu\\Robogo.cs",
               "ToolTip": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\Robogo.cs",
               "RelativeToolTip": "2024.12.05._Gepjarmu\\Robogo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T13:14:09.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Jarmu.cs",
               "DocumentMoniker": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\Jarmu.cs",
               "RelativeDocumentMoniker": "2024.12.05._Gepjarmu\\Jarmu.cs",
               "ToolTip": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\Jarmu.cs",
               "RelativeToolTip": "2024.12.05._Gepjarmu\\Jarmu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:47:44.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:47:44.637Z"
             },
             {
               "$type": "Document",
@@ -62,14 +93,13 @@
               "RelativeDocumentMoniker": "2024.12.05._Gepjarmu\\IKisGepjarmu.cs",
               "ToolTip": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\IKisGepjarmu.cs",
               "RelativeToolTip": "2024.12.05._Gepjarmu\\IKisGepjarmu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:46:09.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:46:09.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.05._Gepjarmu\\2024.12.05._Gepjarmu\\Program.cs",
               "RelativeDocumentMoniker": "2024.12.05._Gepjarmu\\Program.cs",
@@ -77,8 +107,7 @@
               "RelativeToolTip": "2024.12.05._Gepjarmu\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:44:22.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:44:22.212Z"
             }
           ]
         }

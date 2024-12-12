@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.12._Szuperhos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F50FDDE-F2F8-4BDD-B7F3-341917298372}|2024.12.12._Szuperhos\\2024.12.12._Szuperhos.csproj|h:\\2024-25\\asztali\\\u00F6r\u00F6klodes feladatok\\2024.12.12._szuperhos\\2024.12.12._szuperhos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F50FDDE-F2F8-4BDD-B7F3-341917298372}|2024.12.12._Szuperhos\\2024.12.12._Szuperhos.csproj|solutionrelative:2024.12.12._szuperhos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.12._Szuperhos\\2024.12.12._Szuperhos\\Program.cs",
+              "RelativeDocumentMoniker": "2024.12.12._Szuperhos\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\\u00D6r\u00F6klodes feladatok\\2024.12.12._Szuperhos\\2024.12.12._Szuperhos\\Program.cs",
+              "RelativeToolTip": "2024.12.12._Szuperhos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:51:49.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

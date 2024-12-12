@@ -48,7 +48,7 @@ namespace _2024._12._05._Gepjarmu
                     {
                         sw.WriteLine(jarmuvek[i].ToString() + "Túlhajtott");
                     }
-                else
+                else 
                 {
                     if (jarmuvek[i].HaladhatItt(90))
                     {
