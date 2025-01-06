@@ -10,6 +10,6 @@ namespace _2024._12._12._Szuperhos
     internal interface ISzuperhos
     {
         bool LegyoziE(string szuperhos);
-        int MekkoraAzEreje();
+        double MekkoraAzEreje();
     }
 }

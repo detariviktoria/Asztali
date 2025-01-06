@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2024.12.18._BeepitettFuggvenyek\2024.12.18._BeepitettFuggvenyek\bin\Debug\2024.12.18._BeepitettFuggvenyek.exe.config
+H:\2024-25\Asztali\2024.12.18._BeepitettFuggvenyek\2024.12.18._BeepitettFuggvenyek\bin\Debug\2024.12.18._BeepitettFuggvenyek.exe
+H:\2024-25\Asztali\2024.12.18._BeepitettFuggvenyek\2024.12.18._BeepitettFuggvenyek\bin\Debug\2024.12.18._BeepitettFuggvenyek.pdb
+H:\2024-25\Asztali\2024.12.18._BeepitettFuggvenyek\2024.12.18._BeepitettFuggvenyek\obj\Debug\2024.12.18._BeepitettFuggvenyek.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2024.12.18._BeepitettFuggvenyek\2024.12.18._BeepitettFuggvenyek\obj\Debug\2024.12.18._BeepitettFuggvenyek.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2024.12.18._BeepitettFuggvenyek\2024.12.18._BeepitettFuggvenyek\obj\Debug\2024.12.18._BeepitettFuggvenyek.exe
+H:\2024-25\Asztali\2024.12.18._BeepitettFuggvenyek\2024.12.18._BeepitettFuggvenyek\obj\Debug\2024.12.18._BeepitettFuggvenyek.pdb
