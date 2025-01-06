@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\2025.01.06.LINQ_alapok\2025.01.06.LINQ_alapok\bin\Debug\2025.01.06.LINQ_alapok.exe.config
+H:\2024-25\Asztali\2025.01.06.LINQ_alapok\2025.01.06.LINQ_alapok\bin\Debug\2025.01.06.LINQ_alapok.exe
+H:\2024-25\Asztali\2025.01.06.LINQ_alapok\2025.01.06.LINQ_alapok\bin\Debug\2025.01.06.LINQ_alapok.pdb
+H:\2024-25\Asztali\2025.01.06.LINQ_alapok\2025.01.06.LINQ_alapok\obj\Debug\2025.01.06.LINQ_alapok.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2025.01.06.LINQ_alapok\2025.01.06.LINQ_alapok\obj\Debug\2025.01.06.LINQ_alapok.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2025.01.06.LINQ_alapok\2025.01.06.LINQ_alapok\obj\Debug\2025.01.06.LINQ_alapok.exe
+H:\2024-25\Asztali\2025.01.06.LINQ_alapok\2025.01.06.LINQ_alapok\obj\Debug\2025.01.06.LINQ_alapok.pdb
