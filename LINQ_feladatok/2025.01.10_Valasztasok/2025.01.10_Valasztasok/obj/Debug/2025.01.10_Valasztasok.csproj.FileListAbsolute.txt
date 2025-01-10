@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.10_Valasztasok\2025.01.10_Valasztasok\bin\Debug\2025.01.10_Valasztasok.exe.config
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.10_Valasztasok\2025.01.10_Valasztasok\bin\Debug\2025.01.10_Valasztasok.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.10_Valasztasok\2025.01.10_Valasztasok\bin\Debug\2025.01.10_Valasztasok.pdb
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.10_Valasztasok\2025.01.10_Valasztasok\obj\Debug\2025.01.10_Valasztasok.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.10_Valasztasok\2025.01.10_Valasztasok\obj\Debug\2025.01.10_Valasztasok.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.10_Valasztasok\2025.01.10_Valasztasok\obj\Debug\2025.01.10_Valasztasok.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.10_Valasztasok\2025.01.10_Valasztasok\obj\Debug\2025.01.10_Valasztasok.pdb

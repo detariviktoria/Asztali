@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,14 +18,79 @@ namespace _2025_01_06_LINQ_alapok
             LINQEgyszeruPelda();
             LINQObjektumPelda();
 
+            LINQEgyszeruPeldaEgyediElemek();
+            LINQObjektumPeldaEgyediElemek();
+
+            LINQAgregatumOperatorok();
+
+
+            LINQEldontes();
+
             Console.ReadLine();
+        }
+
+        private static void LINQEldontes()
+        {
+            // Van- e olyan hogy, ...? 
+            /*bool vaneNegativ = customers.Any(x => x.Balance < 0);
+            Console.WriteLine("Van-e negativ egyenleg:", vaneNegativ ? "van" : "nincs");*/
+
+            bool pozitiv = customers.All(x => x.Balance >= 0);
+            Console.WriteLine("Az osszes egyenleg pozitiv", pozitiv ? "igen" : "nem");
+        }
+    
+
+        private static void LINQAgregatumOperatorok()
+        {
+            /*var result = from x in egeszek
+                         select x;*/
+            //var result = egeszek.Min();
+
+            var result = customers.Sum(elem => elem.Balance);
+            Console.WriteLine(result);
+        }
+
+        private static void LINQObjektumPeldaEgyediElemek()
+        {
+            var szurtElemek = customers.Select(x => x.Name).Distinct();
+                
+
+            foreach (var szam in szurtElemek)
+            {
+                Console.Write(szam + " ");
+            }
+        }
+
+        private static void LINQEgyszeruPeldaEgyediElemek()
+        {
+            //szürjük ki az egészek listából az egyedi elemeket!
+            //var szurtElemek = egeszek.Distinct();
+            // HashSet - Halmaz, ahol nem lehetnek ismétlödő elemek!
+            HashSet<int> szurtElemek =  new HashSet<int> { 1,1,1,2,3,4,5,5,6,7};
+            foreach (var szam in szurtElemek)
+            {
+                Console.Write(szam + " ");
+            }
         }
 
         private static void LINQObjektumPelda()
         {
-            var queryResults = from x in customers
+            /*var queryResults = from x in customers
                                where x.AccountNumber.Length == 11
-                               select x;
+                               select x;*/
+
+            //var queryResults = customers.Where(x => x.AccountNumber.Length > 11);
+            var queryResults = customers
+                .Where(x => x.AccountNumber.Length > 11)
+                .Select(elem => elem.Name);
+
+
+            Console.WriteLine();
+            foreach (var x in queryResults)
+            {
+                Console.WriteLine(x + " ");
+            }
+
         }
 
         private static void LINQEgyszeruPelda()
@@ -36,6 +102,9 @@ namespace _2025_01_06_LINQ_alapok
 
             //var queryResults = egeszek.Where(szam => szam > 3);
             //var queryResults = egeszek.Where(szam => szam > 3).Select(szam=>szam+"#d");
+            
+
+
             List<int> queryResults = egeszek.Where(szam => szam > 3).ToList();
 
             foreach (var x in queryResults)
@@ -57,6 +126,7 @@ namespace _2025_01_06_LINQ_alapok
                 new BankAccount("Robert Johnson", 1000000.0, "555-123-999"),
                 new BankAccount("Sarah White", 50.5, "666-777-888"),
                 new BankAccount("Superman", 5000.0, "000-000-001"),
+                new BankAccount("Superman", 10000.0, "000-000-002"),
                 new BankAccount("Bruce Wayne", 0.0, "111-222-333"),
                 new BankAccount("Peter Parker", 1200.75, "444-555-666"),
                 new BankAccount("Tony Stark", 99999999.99, "1234-5678-9012-3456")
