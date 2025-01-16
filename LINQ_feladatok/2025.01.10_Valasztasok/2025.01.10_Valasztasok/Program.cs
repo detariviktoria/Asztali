@@ -9,81 +9,115 @@ namespace _2025._01._10_Valasztasok
 {
     internal class Program
     {
-        static List<Kepviselo> valasztasok = new List<Kepviselo>();
+        static List<Kepviselo> kepviselok = new List<Kepviselo>();
         static void Main(string[] args)
         {
-            Feladat1();
+            Fajlbeolvasas();
             Feladat2();
             Feladat3();
             Feladat4();
-            Console.ReadKey();
+            Feladat5();
+            Feladat6();
+            Feladat7();
+            Csoportositas();
+                
+            Console.ReadLine();
         }
 
-
-        static void Feladat4()
+        private static void Feladat7()
         {
-            Console.WriteLine("4.Feladat");
-            int szavazatok = HanySzavazat();
-            double szazalek = (double)szavazatok / 12345 * 100;
-            Console.WriteLine("A választáson {0} állampolgár, a jogosultak {1}%-a vett részt.", szavazatok, Math.Round(szazalek, 2));
-        }
-
-        static int HanySzavazat()
-        {
-            var result = valasztasok.Sum(x => x.szavazat);
-            return result;
-        }
-
-        static void Feladat3()
-        {
-            Console.WriteLine("3.Feladat");
-            Console.WriteLine("Adj meg egy vezetéknevet:");
-            string vezetek = Console.ReadLine();
-            Console.WriteLine("Adj meg egy utónevet:");
-            string uto = Console.ReadLine();
-            bool vane = VanEIlyenKepviselo(vezetek, uto);
-            Console.WriteLine(vane == true ? "Ilyen nevű képviselőjelölt szerepel a nyilvántartásban!" : "Ilyen nevű képviselőjelölt nem szerepel a nyilvántartásban!");
-
-        }
-        static bool VanEIlyenKepviselo(string vez, string uto)
-        {
-            var result = valasztasok.Where(x => x.jeloltvnev == vez && x.jeloltknev == uto);
-
-            return result.Count() > 0;
-        }
-
-        static void Feladat2()
-        {
-            Console.WriteLine("1.Feladat");
-            int kepviselo = HanyKepviselo();
-            Console.WriteLine("A helyhatósági választáson {0} képviselőjelölt indult. ",kepviselo);
-        }
-
-        static int HanyKepviselo()
-        {
-            return valasztasok.Count;
-        }
-
-
-        static void Feladat1()
-        {
-            Console.WriteLine("1.Feladat");
-            Fajlbeolvasas();
-        }
-
-        static void Fajlbeolvasas()
-        {
-            StreamReader f = new StreamReader("szavazatok.txt");
-
-            while (!f.EndOfStream)
+            var csoportositas = kepviselok.GroupBy(c => c.Sorszam)
+                .Select(x => new
+                {
+                    kerulet = x.Key,
+                    kepviselo = x.ToList().Find(v => v.Szavazat == x.Max(d => d.Szavazat))
+                });
+            foreach (var item in csoportositas)
             {
-                string sor = f.ReadLine();
-                Kepviselo k = new Kepviselo(sor);
-                valasztasok.Add(k);
+                Console.WriteLine(item.kerulet + " " + item.kepviselo.Vezeteknev + " " + item.kepviselo.Keresztnev);
             }
-            f.Close();
         }
 
-        
+        private static void Csoportositas()
+        {
+            var csoportositas = kepviselok
+                .GroupBy(c => c.Part)
+                .Select(x => new
+                {
+                    partNeve = x.Key,
+                    osszeg = x.Sum(d => d.Szavazat)
+                })
+                .OrderByDescending(k => k.osszeg);
+            foreach (var item in csoportositas)
+            {
+                Console.WriteLine(item.partNeve + " " + item.osszeg);
+            }
+        }
+
+        private static void Feladat6()
+        {
+            int maxSzavazat = kepviselok.Max(c => c.Szavazat);    
+            var legjobbKepviselok = kepviselok.Where(c => c.Szavazat == maxSzavazat);
+            foreach (var item in legjobbKepviselok)
+            {
+                Console.WriteLine(item.Vezeteknev+" " + item.Keresztnev + " " + item.Szavazat);
+            }
+        }
+
+        private static void Feladat5()
+        {
+            List<string> partSzoveg = new List<string> { "Gyümölcsevők Pártja", "GYEP", "Húsevők Pártja", "HEP", "Tejivók Szövetsége", "TISZ", "Zöldségevők Pártja", "ZEP", "Független jelöltek", "-" };
+            Console.WriteLine("5. feladat");
+            var partok = kepviselok.Select(x => x.Part).Distinct();
+            foreach (var elem in partok)
+            {
+                /*int / int = int
+                 * 5 / 10 = 0 
+                 * double / int = double
+                 * 5.0 / 10 = 0.5 */
+                double szazalek = (double)kepviselok.FindAll(x => x.Part == elem).Sum(x => x.Szavazat) / kepviselok.Sum(x => x.Szavazat) * 100;
+                Console.WriteLine($"{partSzoveg[partSzoveg.IndexOf(elem) - 1]} = {Math.Round(szazalek, 2)}%");
+            }
+        }
+
+        private static void Feladat4()
+        {
+            Console.WriteLine("4. feladat");
+            int sum = kepviselok.Sum(x => x.Szavazat);
+            double szazalek = (double)sum / 12345 * 100;
+            Console.WriteLine($"\tA választáson {sum} állampolgár, a jogosultak {Math.Round(szazalek, 2)}%-a vett részt.");
+        }
+
+        private static void Feladat3()
+        {
+            Console.WriteLine("3. feladat");
+            Console.Write("\tAdja meg a képviselő nevét: ");
+            string[] nev = Console.ReadLine().Split(' ');
+            Kepviselo k = kepviselok.Find(c => c.Vezeteknev == nev[0] && c.Keresztnev == nev[1]);
+            if (k == null)
+                Console.WriteLine("\tIlyen nevű képviselőjelölt nem szerepel a nyilvántartásban!");
+            else
+                Console.WriteLine($"\t{nev[0]} {nev[1]} képviselő {k.Szavazat} szavazatot kapott.");
+        }
+
+        private static void Feladat2()
+        {
+            Console.WriteLine("2. feladat");
+            Console.WriteLine($"\tA helyhatósági választáson {kepviselok.Count} képviselőjelölt indult.");
+        }
+
+        private static void Fajlbeolvasas()
+        {
+            StreamReader sr = new StreamReader("szavazatok.txt");
+
+            while (!sr.EndOfStream)
+            {
+                Kepviselo sv = new Kepviselo(sr.ReadLine());
+                kepviselok.Add(sv);
+            }
+
+            sr.Close();
+
+        }
     }
 }

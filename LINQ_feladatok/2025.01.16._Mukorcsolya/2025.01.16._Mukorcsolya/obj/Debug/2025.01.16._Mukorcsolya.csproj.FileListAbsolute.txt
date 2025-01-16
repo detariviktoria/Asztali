@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.16._Mukorcsolya\2025.01.16._Mukorcsolya\bin\Debug\2025.01.16._Mukorcsolya.exe.config
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.16._Mukorcsolya\2025.01.16._Mukorcsolya\bin\Debug\2025.01.16._Mukorcsolya.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.16._Mukorcsolya\2025.01.16._Mukorcsolya\bin\Debug\2025.01.16._Mukorcsolya.pdb
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.16._Mukorcsolya\2025.01.16._Mukorcsolya\obj\Debug\2025.01.16._Mukorcsolya.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.16._Mukorcsolya\2025.01.16._Mukorcsolya\obj\Debug\2025.01.16._Mukorcsolya.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.16._Mukorcsolya\2025.01.16._Mukorcsolya\obj\Debug\2025.01.16._Mukorcsolya.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.16._Mukorcsolya\2025.01.16._Mukorcsolya\obj\Debug\2025.01.16._Mukorcsolya.pdb
