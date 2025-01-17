@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{F205FF5D-3112-479A-B986-5B27366130CD}|2025.01.16._Mukorcsolya\\2025.01.16._Mukorcsolya.csproj|solutionrelative:2025.01.16._mukorcsolya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\2024-25\\Asztali\\2025.01.06.LINQ_alapok\\2025.01.06.LINQ_alapok\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\2024-25\\Asztali\\LINQ_feladatok\\2025.01.10_Valasztasok\\2025.01.10_Valasztasok\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,20 +20,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\2025.01.06.LINQ_alapok\\2025.01.06.LINQ_alapok\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\2025.01.06.LINQ_alapok\\2025.01.06.LINQ_alapok\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\2025.01.06.LINQ_alapok\\2025.01.06.LINQ_alapok\\Program.cs",
+              "RelativeToolTip": "..\\..\\2025.01.06.LINQ_alapok\\2025.01.06.LINQ_alapok\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:31:20.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "H:\\2024-25\\Asztali\\LINQ_feladatok\\2025.01.10_Valasztasok\\2025.01.10_Valasztasok\\Program.cs",
               "RelativeDocumentMoniker": "..\\2025.01.10_Valasztasok\\2025.01.10_Valasztasok\\Program.cs",
               "ToolTip": "H:\\2024-25\\Asztali\\LINQ_feladatok\\2025.01.10_Valasztasok\\2025.01.10_Valasztasok\\Program.cs",
               "RelativeToolTip": "..\\2025.01.10_Valasztasok\\2025.01.10_Valasztasok\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:06:58.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:06:58.096Z"
             },
             {
               "$type": "Document",
@@ -38,9 +52,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\2024-25\\Asztali\\LINQ_feladatok\\2025.01.16._Mukorcsolya\\2025.01.16._Mukorcsolya\\Program.cs",
               "RelativeDocumentMoniker": "2025.01.16._Mukorcsolya\\Program.cs",
-              "ToolTip": "H:\\2024-25\\Asztali\\LINQ_feladatok\\2025.01.16._Mukorcsolya\\2025.01.16._Mukorcsolya\\Program.cs*",
-              "RelativeToolTip": "2025.01.16._Mukorcsolya\\Program.cs*",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAwGQAAAArAAAAAAAAAA==",
+              "ToolTip": "H:\\2024-25\\Asztali\\LINQ_feladatok\\2025.01.16._Mukorcsolya\\2025.01.16._Mukorcsolya\\Program.cs",
+              "RelativeToolTip": "2025.01.16._Mukorcsolya\\Program.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAswK8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T06:42:03.532Z",
               "EditorCaption": ""

@@ -13,6 +13,7 @@ namespace _2025._01._16._Mukorcsolya
         static List<Korcsolya> rovidprograms = new List<Korcsolya>();
         static void Main(string[] args)
         {
+            //1. országonként a legjobbat megnézni
             Fajlbeolvasas(dontos, "donto.csv");
             Fajlbeolvasas(rovidprograms, "rovidprogram.csv");
             Feladat2();
@@ -21,8 +22,52 @@ namespace _2025._01._16._Mukorcsolya
             Feladat5();
             
             Feladat7();
+            KulonFeladat1();
+            Feladat8();
             
             Console.ReadLine();
+        }
+
+
+        private static void KulonFeladat1()
+        {
+            Console.WriteLine("1. Külön Feladat feladat");
+            var orszagLista = dontos
+                .GroupBy(versenyzo => versenyzo.Orszag)
+                .Select(g => new
+                {
+                    orszag = g.Key,
+                    legjobb = g.OrderByDescending(v => v.OsszPont).First()
+                });
+
+            foreach (var orszag in orszagLista)
+            {
+                Console.WriteLine("\t{0}: {1} a legjobb versenyzo", orszag.orszag, orszag.legjobb.Nev);
+            }
+        }
+
+        private static void Feladat8()
+        {
+            Console.WriteLine("8. feladat");
+
+            StreamWriter eredmeny = new StreamWriter("vegeredmeny.txt");
+            var vegeredmeny = rovidprograms
+                .Select(g => new
+                {
+                    nev = g.Nev,
+                    orszag = g.Orszag,
+                    osszpont = OsszPontSzam(g.Nev)
+                })
+                .OrderByDescending(v => v.osszpont);
+
+            int hely = 1;
+            foreach (var i in vegeredmeny)
+            {
+                eredmeny.WriteLine("{0}; {1}; {2}; {3}", hely, i.nev, i.orszag, i.osszpont);
+                hely++;
+            }
+            eredmeny.Close();
+            
         }
 
         private static void Feladat6(string nev)
@@ -113,6 +158,7 @@ namespace _2025._01._16._Mukorcsolya
             sd.Close();
         }
 
+
         class Korcsolya
         {
             public string Nev;
@@ -120,6 +166,7 @@ namespace _2025._01._16._Mukorcsolya
             public double TechPontszam;
             public double KompPontszam;
             public int Levonas;
+            public double OsszPont;
 
             public Korcsolya(string Sor)
             {
@@ -129,6 +176,7 @@ namespace _2025._01._16._Mukorcsolya
                 TechPontszam = Convert.ToDouble(AdatSorElemek[2].Replace(".", ","));
                 KompPontszam = Convert.ToDouble(AdatSorElemek[3].Replace(".", ","));
                 Levonas = Convert.ToInt32(AdatSorElemek[4]);
+                OsszPont = TechPontszam + KompPontszam - Levonas;
             }
 
 
