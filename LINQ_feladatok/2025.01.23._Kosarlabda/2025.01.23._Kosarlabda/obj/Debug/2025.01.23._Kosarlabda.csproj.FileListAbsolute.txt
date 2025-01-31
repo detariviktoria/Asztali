@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Kosarlabda\2025.01.23._Kosarlabda\bin\Debug\2025.01.23._Kosarlabda.exe.config
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Kosarlabda\2025.01.23._Kosarlabda\bin\Debug\2025.01.23._Kosarlabda.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Kosarlabda\2025.01.23._Kosarlabda\bin\Debug\2025.01.23._Kosarlabda.pdb
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Kosarlabda\2025.01.23._Kosarlabda\obj\Debug\2025.01.23._Kosarlabda.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Kosarlabda\2025.01.23._Kosarlabda\obj\Debug\2025.01.23._Kosarlabda.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Kosarlabda\2025.01.23._Kosarlabda\obj\Debug\2025.01.23._Kosarlabda.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Kosarlabda\2025.01.23._Kosarlabda\obj\Debug\2025.01.23._Kosarlabda.pdb

@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.17._Nobel\2025.01.17._Nobel\bin\Debug\2025.01.17._Nobel.exe.config
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.17._Nobel\2025.01.17._Nobel\bin\Debug\2025.01.17._Nobel.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.17._Nobel\2025.01.17._Nobel\bin\Debug\2025.01.17._Nobel.pdb
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.17._Nobel\2025.01.17._Nobel\obj\Debug\2025.01.17._Nobel.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.17._Nobel\2025.01.17._Nobel\obj\Debug\2025.01.17._Nobel.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.17._Nobel\2025.01.17._Nobel\obj\Debug\2025.01.17._Nobel.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.17._Nobel\2025.01.17._Nobel\obj\Debug\2025.01.17._Nobel.pdb

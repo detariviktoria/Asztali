@@ -1,0 +1,7 @@
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Magyarorszaghegyei\2025.01.23._Magyarorszaghegyei\bin\Debug\2025.01.23._Magyarorszaghegyei.exe.config
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Magyarorszaghegyei\2025.01.23._Magyarorszaghegyei\bin\Debug\2025.01.23._Magyarorszaghegyei.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Magyarorszaghegyei\2025.01.23._Magyarorszaghegyei\bin\Debug\2025.01.23._Magyarorszaghegyei.pdb
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Magyarorszaghegyei\2025.01.23._Magyarorszaghegyei\obj\Debug\2025.01.23._Magyarorszaghegyei.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Magyarorszaghegyei\2025.01.23._Magyarorszaghegyei\obj\Debug\2025.01.23._Magyarorszaghegyei.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Magyarorszaghegyei\2025.01.23._Magyarorszaghegyei\obj\Debug\2025.01.23._Magyarorszaghegyei.exe
+H:\2024-25\Asztali\LINQ_feladatok\2025.01.23._Magyarorszaghegyei\2025.01.23._Magyarorszaghegyei\obj\Debug\2025.01.23._Magyarorszaghegyei.pdb
