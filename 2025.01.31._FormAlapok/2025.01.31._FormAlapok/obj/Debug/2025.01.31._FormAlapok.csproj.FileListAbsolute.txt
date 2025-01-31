@@ -1,0 +1,10 @@
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\bin\Debug\2025.01.31._FormAlapok.exe.config
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\bin\Debug\2025.01.31._FormAlapok.exe
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\bin\Debug\2025.01.31._FormAlapok.pdb
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\obj\Debug\2025.01.31._FormAlapok.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\obj\Debug\_2025._01._31._FormAlapok.Form1.resources
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\obj\Debug\_2025._01._31._FormAlapok.Properties.Resources.resources
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\obj\Debug\2025.01.31._FormAlapok.csproj.GenerateResource.cache
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\obj\Debug\2025.01.31._FormAlapok.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\obj\Debug\2025.01.31._FormAlapok.exe
+H:\2024-25\Asztali\2025.01.31._FormAlapok\2025.01.31._FormAlapok\obj\Debug\2025.01.31._FormAlapok.pdb

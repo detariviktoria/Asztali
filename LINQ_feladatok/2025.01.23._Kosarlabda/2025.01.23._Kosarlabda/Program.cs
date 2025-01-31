@@ -31,6 +31,7 @@ namespace _2025._01._23._Kosarlabda
             int hazai = merkozesek.Where(x => x.Hazai == "Real Madrid").Count();
             int idegen = merkozesek.Where(x => x.Idegen == "Real Madrid").Count();
             Console.WriteLine("3.Feladat: Real Madrid: Hazai: {0}, Idegen: {1}", hazai, idegen);
+            
         }
 
         private static void Fajlbeolvasas()
