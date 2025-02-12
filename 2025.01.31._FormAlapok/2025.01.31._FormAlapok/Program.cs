@@ -16,7 +16,7 @@ namespace _2025._01._31._FormAlapok
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Csinald());
         }
     }
 }

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-25\\Asztali\\Beadando\\2025.02.06._GyakorlasVerseny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B98552-30CC-46C7-B1BC-0D71990951D0}|2025.02.06._GyakorlasVerseny\\2025.02.06._GyakorlasVerseny.csproj|h:\\2024-25\\asztali\\beadando\\2025.02.06._gyakorlasverseny\\2025.02.06._gyakorlasverseny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B98552-30CC-46C7-B1BC-0D71990951D0}|2025.02.06._GyakorlasVerseny\\2025.02.06._GyakorlasVerseny.csproj|solutionrelative:2025.02.06._gyakorlasverseny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\Beadando\\2025.02.06._GyakorlasVerseny\\2025.02.06._GyakorlasVerseny\\Program.cs",
+              "RelativeDocumentMoniker": "2025.02.06._GyakorlasVerseny\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\Beadando\\2025.02.06._GyakorlasVerseny\\2025.02.06._GyakorlasVerseny\\Program.cs",
+              "RelativeToolTip": "2025.02.06._GyakorlasVerseny\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:58:58.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
