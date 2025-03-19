@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{537F1AE9-9435-4657-A45C-BC6B0F888A4B}|2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj|h:\\2024-25\\asztali\\2025.03.17._ elsoalkalmazas\\2025_03_17 elsoalkalmazas\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{537F1AE9-9435-4657-A45C-BC6B0F888A4B}|2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj|solutionrelative:2025_03_17 elsoalkalmazas\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537F1AE9-9435-4657-A45C-BC6B0F888A4B}|2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj|h:\\2024-25\\asztali\\2025.03.17._ elsoalkalmazas\\2025_03_17 elsoalkalmazas\\2025_03_17 elsoalkalmazas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{537F1AE9-9435-4657-A45C-BC6B0F888A4B}|2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj|solutionrelative:2025_03_17 elsoalkalmazas\\2025_03_17 elsoalkalmazas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537F1AE9-9435-4657-A45C-BC6B0F888A4B}|2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj|h:\\2024-25\\asztali\\2025.03.17._ elsoalkalmazas\\2025_03_17 elsoalkalmazas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537F1AE9-9435-4657-A45C-BC6B0F888A4B}|2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj|solutionrelative:2025_03_17 elsoalkalmazas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537F1AE9-9435-4657-A45C-BC6B0F888A4B}|2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj|h:\\2024-25\\asztali\\2025.03.17._ elsoalkalmazas\\2025_03_17 elsoalkalmazas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{537F1AE9-9435-4657-A45C-BC6B0F888A4B}|2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj|solutionrelative:2025_03_17 elsoalkalmazas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "2025_03_17 ElsoAlkalmazas\\Properties\\Settings.settings",
+              "ToolTip": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas\\Properties\\Settings.settings",
+              "RelativeToolTip": "2025_03_17 ElsoAlkalmazas\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-03-19T10:20:59.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2025_03_17 ElsoAlkalmazas",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj",
+              "RelativeDocumentMoniker": "2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj",
+              "ToolTip": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj",
+              "RelativeToolTip": "2025_03_17 ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T10:20:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "2025_03_17 ElsoAlkalmazas\\MainWindow.xaml",
+              "ToolTip": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas\\MainWindow.xaml",
+              "RelativeToolTip": "2025_03_17 ElsoAlkalmazas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T12:05:59.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "2025_03_17 ElsoAlkalmazas\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\2024-25\\Asztali\\2025.03.17._ ElsoAlkalmazas\\2025_03_17 ElsoAlkalmazas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "2025_03_17 ElsoAlkalmazas\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:05:54.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
