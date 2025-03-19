@@ -1,0 +1,14 @@
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\obj\Debug\2025.02.14._Console_Projekt_Felhasznalasa.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\obj\Debug\_2025._02._14._Console_Projekt_Felhasznalasa.Form1.resources
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\obj\Debug\_2025._02._14._Console_Projekt_Felhasznalasa.Properties.Resources.resources
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\obj\Debug\2025.02.14._Console_Projekt_Felhasznalasa.csproj.GenerateResource.cache
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\obj\Debug\2025.02.14._Console_Projekt_Felhasznalasa.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\bin\Debug\2025.02.14._Console_Projekt_Felhasznalasa.exe.config
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\bin\Debug\2025.02.14._Console_Projekt_Felhasznalasa.exe
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\bin\Debug\2025.02.14._Console_Projekt_Felhasznalasa.pdb
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\bin\Debug\2024_02_06_FutoversenyProjekt.exe
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\bin\Debug\2024_02_06_FutoversenyProjekt.pdb
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\bin\Debug\2024_02_06_FutoversenyProjekt.exe.config
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\obj\Debug\2025.02..6EDB989F.Up2Date
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\obj\Debug\2025.02.14._Console_Projekt_Felhasznalasa.exe
+H:\2024-25\Asztali\2025.02.14._Console_Projekt_Felhasznalasa\2025.02.14._Console_Projekt_Felhasznalasa\obj\Debug\2025.02.14._Console_Projekt_Felhasznalasa.pdb

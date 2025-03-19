@@ -1,0 +1,10 @@
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\bin\Debug\2025.02.27._FormGyakorlas.exe.config
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\bin\Debug\2025.02.27._FormGyakorlas.exe
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\bin\Debug\2025.02.27._FormGyakorlas.pdb
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\obj\Debug\2025.02.27._FormGyakorlas.csproj.AssemblyReference.cache
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\obj\Debug\_2025._02._27._FormGyakorlas.Form1.resources
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\obj\Debug\_2025._02._27._FormGyakorlas.Properties.Resources.resources
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\obj\Debug\2025.02.27._FormGyakorlas.csproj.GenerateResource.cache
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\obj\Debug\2025.02.27._FormGyakorlas.csproj.CoreCompileInputs.cache
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\obj\Debug\2025.02.27._FormGyakorlas.exe
+H:\2024-25\Asztali\2025.02.27._FormGyakorlas\2025.02.27._FormGyakorlas\obj\Debug\2025.02.27._FormGyakorlas.pdb
